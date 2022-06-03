@@ -1,3 +1,5 @@
+'use strict';
+
 export const fizzBuzz = (num) => {
   if (num % 15 === 0) {
     return 'FizzBuzz';
